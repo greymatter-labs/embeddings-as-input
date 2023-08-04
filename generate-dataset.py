@@ -38,7 +38,3 @@ def create_dataset_gzip_with_savings_v2(text_list):
     df['Output'] = text_list
 
     return df, percent_tokens_saved
-
-# Create the dataset and calculate the savings
-df, savings = create_dataset_gzip_with_savings_v2(selected_paragraphs)
-df, savings
