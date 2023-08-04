@@ -5,7 +5,7 @@ This repository contains an experiment where texts are compressed using gzip, to
 
 Achieves a 15% token compression ratio. 
 
-This dataset will be used to generate a model that converts back to english. From there, we will start actuall transforming the directly embedded input.
+This dataset will be used to generate a model that converts back to english. From there, we will start actually transforming the directly embedded input.
 
 ## Description of the Experiment
 
